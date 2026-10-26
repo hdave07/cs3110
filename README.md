@@ -1,5 +1,5 @@
 # Team 19!
-**Authors: **
+Authors:
 - Harini Dave (hsd43)
 - Teju Vijay (tv95)
 - Meira Chenicheri (mc3227)
